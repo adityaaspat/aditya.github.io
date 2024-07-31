@@ -21,9 +21,7 @@ en: &DEFAULT_EN
       section: timeline
     - title: "Socials"
       section: team
-    - title: "Contact"
-      section: contact
-    
+
 en-US:
   <<: *DEFAULT_EN
 en-CA:
