@@ -7,7 +7,7 @@ alt:
 caption:
   title: Lego LOAM
   subtitle: SLAM, Perception
-  thumbnail: assets/img/portfolio/03-thumbnail.jpg
+  thumbnail: assets/images/LEGOLOAM.png
 ---
 Led a team of 4 in the implementation of the Lego LOAM (Lidar Odometry and Mapping) algorithm. Precise localization and mapping in robotic systems, using the LiDAR on the autonomous car of Northeastern University (Nuance) was performed.Implemented IMU data with the algorithm to increase accuracy and incorporate loop closure.
 
