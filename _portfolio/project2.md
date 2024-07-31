@@ -1,18 +1,23 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Autonomous Parking using Deep RL
+subtitle: Developed autonomous parking solutions using advanced deep reinforcement learning (RL) techniques
 image: assets/img/portfolio/02-full.jpg
 alt: Keep Exploring
 
 caption:
-  title: Explore
-  subtitle: Graphic Design
+  title: Autonomous Parking using Deep RL
+  subtitle: Reinforcement Learning
   thumbnail: assets/img/portfolio/02-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Developed autonomous parking solutions using advanced deep reinforcement learning (RL) techniques,
+including DDPG (Deep Deterministic Policy Gradient), PPO (Proximal Policy Optimization), and SAC
+(Soft Actor-Critic). Implemented and fine-tuned deep RL algorithms to achieve optimal parking behavior in shorter durations
+utilizing CUDA to accelerate computations and enhance performance. Integrated feature association using semi-gradient SARSA to map continuous environmental features to
+appropriate discrete actions effectively.
 
 {:.list-inline}
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
+- Date: April 2024
+- Course: Reinforcement Learning and Sequential Decision Making
+- Skills: Python, Pytorch, CUDA
+- GitHub link:
 
