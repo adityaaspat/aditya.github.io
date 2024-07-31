@@ -25,22 +25,31 @@ en: &DEFAULT_EN
         date: "April 2024"
         desc: "Led a mobile robotics project using a Raspberry Pi camera and TurtleBot 3 on ROS2 to conduct autonomous search and rescue missions."
         alt: "Autonomous Search and Rescue"
+        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+
       - title: "Autonomous Parking using Deep RL"
         date: "April 2024"
         desc: "Developed autonomous parking solutions using advanced deep reinforcement learning techniques such as DDPG, PPO, and SAC."
         alt: "Autonomous Parking"
+        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        
       - title: "Lego-LOAM"
         date: "December 2023"
         desc: "Led a team to implement the Lego LOAM algorithm for precise localization and mapping in robotic systems using LiDAR."
         alt: "Lego-LOAM"
+        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        
       - title: "Modeling and Control of a Dynamic Yo-Yo"
         date: "December 2023"
         desc: "Designed and implemented a comprehensive control system for Yo-Yo dynamics using MATLAB."
         alt: "Dynamic Yo-Yo"
+        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        
       - title: "Wind-Powered Cars"
         date: "April 2023"
         desc: "Directed a team to design, simulate, and assess the feasibility of a renewable energy-driven wind-powered car model within MATLAB Simulink."
         alt: "Wind-Powered Cars"
+        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
 
   portfolio:
     title: "Portfolio"
