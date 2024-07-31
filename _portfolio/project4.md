@@ -1,18 +1,20 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Modeling and Control of a Dynamic Yo-Yo
+subtitle: Designed and implemented a comprehensive control system for Yo-Yo dynamics using MATLAB.
 image: assets/img/portfolio/04-full.jpg
 alt: 
 
 caption:
-  title: Lines
-  subtitle: Branding
+  title: Modeling and Control of a Dynamic Yo-Yo
+  subtitle: Control Systems
   thumbnail: assets/img/portfolio/04-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Employed state feedback, observer design, and observer-based control strategies to achieve precise control
+and stability while ensuring the Yo-Yo's perpetual motion, even in the presence of external impulses.
 
 {:.list-inline}
-- Date: October 2019
-- Client: Lines
-- Category: Branding
+- Date: December 2023
+- Course: Control Systems
+- Skills: MATLAB, Symlink, Simscape
+- GitHub Link: hi
 
