@@ -11,8 +11,9 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
+    title: "Welcome to Aditya Aspat's Portfolio!"
+    text: "Master of Science, Robotics"
+
 
   services:
     title: "Skills"
@@ -30,41 +31,33 @@ en: &DEFAULT_EN
         icon: "fas fa-project-diagram"
 
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Projects"
+    text: "Here are some of the projects I have worked on."
     section: portfolio
     closebutton: "Close Project"
 
   timeline:
     title: "Timeline"
-    text: "Lorem ipsum timeline"
+    text: "Here's a brief timeline of my academic and professional journey."
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
+      - title: "Northeastern University"
+        year: "2023-2025"
+        desc: "Master of Science in Robotics, Concentration in Electrical and Computer Engineering."
+        #image: "assets/img/timeline/northeastern.jpg"
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
+      - title: "Vellore Institute of Technology University"
+        year: "2019-2023"
+        desc: "Bachelor of Technology in Electrical and Electronics Engineering."
+        #image: "assets/img/timeline/vit.jpg"
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
+      - title: "Intern at Tata Power"
+        year: "May 2022 - July 2022"
+        desc: "Conducted extensive on-site data collection and research, resulting in strategic decision-making."
+        #image: "assets/img/timeline/tata_power.jpg"
         alt:
-        # you can enforce the alignment
-        align: right
-    end: "Be Part <br> of Our <br> Story!"
 
   about:
     title: "About Us"
