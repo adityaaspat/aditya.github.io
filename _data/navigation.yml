@@ -1,4 +1,4 @@
-#
+vi#
 # Work based on https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml
 #
 # Configuration: Add to _config.yml
@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Projects"
-      section: projects
+    - title: "Skills"
+      section: services
     - title: "Portfolio"
       section: portfolio
     - title: "About"
