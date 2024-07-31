@@ -16,18 +16,18 @@ en: &DEFAULT_EN
 
   services:
     title: "Skills"
-    text: "Lorem ipsum"
+    text: "Here's an overview of my technical skills."
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "Programming Languages"
+        desc: "Python, C, C++, Java, ROS, MATLAB, Arduino IDE"
+        icon: "fas fa-code"
+      - title: "Software"
+        desc: "NodeRED, Gazebo, AutoCAD, SOLIDWORKS, Isaac Sim, Isaac Gym"
+        icon: "fas fa-laptop"
+      - title: "Libraries"
+        desc: "PyTorch, OpenCV, NumPY, Keras, sci-kit-learn, TensorFlow"
+        icon: "fas fa-project-diagram"
 
   portfolio:
     title: "Portfolio"
