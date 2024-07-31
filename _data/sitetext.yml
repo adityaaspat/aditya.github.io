@@ -48,16 +48,17 @@ en: &DEFAULT_EN
         desc: "Master of Science in Robotics, Concentration in Electrical and Computer Engineering."
         #image: "assets/img/timeline/northeastern.jpg"
         alt:
-      - title: "Vellore Institute of Technology University"
-        year: "2019-2023"
-        desc: "Bachelor of Technology in Electrical and Electronics Engineering."
-        #image: "assets/img/timeline/vit.jpg"
-        alt:
       - title: "Intern at Tata Power"
         year: "May 2022 - July 2022"
         desc: "Conducted extensive on-site data collection and research, resulting in strategic decision-making."
         #image: "assets/img/timeline/tata_power.jpg"
         alt:
+      - title: "Vellore Institute of Technology University"
+        year: "2019-2023"
+        desc: "Bachelor of Technology in Electrical and Electronics Engineering."
+        #image: "assets/img/timeline/vit.jpg"
+        alt:
+      
 
   about:
     title: "About me"
