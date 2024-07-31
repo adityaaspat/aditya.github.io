@@ -1,7 +1,7 @@
 ---
 title: Lego LOAM
 subtitle: Implementation of the Lego LOAM (Lidar Odometry and Mapping) algorithm
-image: assets/img/portfolio/03-full.jpg
+image: assets/images/LEGOLOAM.png
 alt: 
 
 caption:
@@ -15,4 +15,4 @@ Led a team of 4 in the implementation of the Lego LOAM (Lidar Odometry and Mappi
 - Date: December 2023
 - Course: Robotic Sensing and Navigation
 - Skills: ROS, Python, Sensor Fusion, 3D Lidar
-- GitHub Link: BLAH
+- GitHub Link: [LegoLOAM](https://github.com/adityaaspat/Robotics/tree/main/LeGO-LOAM/LeGO-LOAM)
