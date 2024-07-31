@@ -7,7 +7,7 @@ alt: Keep Exploring
 caption:
   title: Autonomous Parking using Deep RL
   subtitle: Reinforcement Learning
-  thumbnail: assets/img/portfolio/02-thumbnail.jpg
+  thumbnail: assets/videos/RL.gif
 ---
 Developed autonomous parking solutions using advanced deep reinforcement learning (RL) techniques,
 including DDPG (Deep Deterministic Policy Gradient), PPO (Proximal Policy Optimization), and SAC
