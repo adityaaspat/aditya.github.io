@@ -1,18 +1,18 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Wind-Powered Cars
+subtitle: Simulation of electromechanical systems
 image: assets/img/portfolio/06-full.jpg
 alt: 
 
 caption:
-  title: Window
-  subtitle: Photography
+  title: Wind-Powered Cars
+  subtitle: Electromechanical Systems
   thumbnail: assets/img/portfolio/06-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Directed a team of three individuals in the design, simulation, and assessment of the feasibility of a renewable energy-driven wind-powered car model within MATLAB Simulink. Spearheaded collaborative efforts to explore and promote sustainable transportation alternatives.
 
 {:.list-inline}
-- Date: October 2019
-- Client: Window
-- Category: Photography
+- Date: April 2023
+- Degree: Electronics and Electrical
+- Skills: MATLAB, Simulink
 
