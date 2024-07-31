@@ -1,13 +1,13 @@
 ---
 title: Autonomous Search and Rescue
 subtitle: A mobile robotics project that used a Raspberry Pi camera and TurtleBot 3 on ROS2 to conduct autonomous search and rescue missions
-image: assets/images/Turtlebot.png
+image: assets/videos/TB.gif
 alt: Turtlebot3
 
 caption:
   title: Autonomous Search and Rescue
   subtitle: Path planning and Exploration
-  thumbnail: assets/images/ori-turtlebot3-burger-1997.jpg
+  thumbnail: assets/videos/TB.gif
 ---
 Developed an MPPI (Model Predictive Path Integral)/MPC(Model Predictive Control) algorithm leveraging
 data from the SLAM node to identify frontiers within the occupancy grid map. Integrated Raspberry Pi camera for AprilTag detection, enabling identification of individuals within the
