@@ -14,22 +14,33 @@ en: &DEFAULT_EN
     title: Welcome to Aditya Aspat's Portfolio!
     text: Master of Science, Robotics
     button: Explore My Projects
-    buttonlink: "#Projects"
+    buttonlink: "#projects"
 
-  Projects:
+  projects:
     title: "Projects"
-    text: "Lorem ipsum"
-    section: Projects
+    text: "Here are some of the projects I have worked on."
+    section: projects
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "Autonomous Search and Rescue"
+        date: "April 2024"
+        desc: "Led a mobile robotics project using a Raspberry Pi camera and TurtleBot 3 on ROS2 to conduct autonomous search and rescue missions."
+        alt: "Autonomous Search and Rescue"
+      - title: "Autonomous Parking using Deep RL"
+        date: "April 2024"
+        desc: "Developed autonomous parking solutions using advanced deep reinforcement learning techniques such as DDPG, PPO, and SAC."
+        alt: "Autonomous Parking"
+      - title: "Lego-LOAM"
+        date: "December 2023"
+        desc: "Led a team to implement the Lego LOAM algorithm for precise localization and mapping in robotic systems using LiDAR."
+        alt: "Lego-LOAM"
+      - title: "Modeling and Control of a Dynamic Yo-Yo"
+        date: "December 2023"
+        desc: "Designed and implemented a comprehensive control system for Yo-Yo dynamics using MATLAB."
+        alt: "Dynamic Yo-Yo"
+      - title: "Wind-Powered Cars"
+        date: "April 2023"
+        desc: "Directed a team to design, simulate, and assess the feasibility of a renewable energy-driven wind-powered car model within MATLAB Simulink."
+        alt: "Wind-Powered Cars"
 
   portfolio:
     title: "Portfolio"
