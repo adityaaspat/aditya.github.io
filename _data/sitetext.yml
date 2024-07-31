@@ -88,11 +88,11 @@ en: &DEFAULT_EN
       - name: "Aditya Aspat"
         image: assets/img/team/2.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
+          - url: https://github.com/adityaaspat
+            icon: fab fa-github
           - url: https://facebook.com
             icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          - url: http://www.linkedin.com/in/aditya-aspat26
             icon: fab fa-linkedin-in
 
   contact:
