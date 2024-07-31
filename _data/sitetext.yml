@@ -59,7 +59,7 @@ en: &DEFAULT_EN
         alt:
 
   about:
-    title: "About Us"
+    title: "About Me"
     body: "I’m Aditya Aspat, a robotics engineer with a Master’s in Robotics. I focus on solving complex problems through innovative approaches, driven by a passion for advancing robotics technology. With a keen interest in path planning, perception, and state estimation, I strive to turn challenges into opportunities for growth and discovery."
     section: about
 
@@ -94,21 +94,6 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: http://www.linkedin.com/in/aditya-aspat26
             icon: fab fa-linkedin-in
-
-  contact:
-    title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
-    section: contact
-    name: "Name*"
-    name-validation: "Please enter your name."
-    email: "Email*"
-    email-validation: "Please enter your email address."
-    phone: "Phone Number"
-    phone-validation: "Please enter your phone number."
-    message: "Message*"
-    message-validation: "Please enter a message."
-    subject: "Contact Form Submission"
-    submit: "Send Message"
 
   footer:
     legal: "Privacy Policy"
