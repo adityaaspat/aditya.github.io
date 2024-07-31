@@ -62,7 +62,7 @@ en: &DEFAULT_EN
 
   about:
     title: "About me"
-    body: "I’m Aditya Aspat, a robotics engineer with a Master’s in Robotics. I focus on solving complex problems through innovative approaches, driven by a passion for advancing robotics technology. With a keen interest in path planning and state estimation, I strive to turn challenges into opportunities for growth and discovery.."
+    body: "I’m Aditya Aspat, a robotics engineer with a Master’s in Robotics. I focus on solving complex problems through innovative approaches, driven by a passion for advancing robotics technology. With a keen interest in path planning, perception, and state estimation, I strive to turn challenges into opportunities for growth and discovery.."
     section: about
 
   clients:
