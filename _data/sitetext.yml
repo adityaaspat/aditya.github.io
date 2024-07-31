@@ -13,8 +13,6 @@ en: &DEFAULT_EN
   header:
     title: Welcome to Aditya Aspat's Portfolio!
     text: Master of Science, Robotics
-    button: Explore My Projects
-    buttonlink: "#projects"
 
   projects:
     title: "Projects"
