@@ -13,7 +13,9 @@ en: &DEFAULT_EN
   header:
     title: Welcome to Aditya Aspat's Portfolio!
     text: Master of Science, Robotics
-
+    button: Tell Me More
+    buttonlink: "#services"
+    
 services:
     title: "Top Skills"
     text: "Lorem ipsum"
