@@ -18,7 +18,9 @@ environment and returning them to safety.
 - Course: Mobile Robotics
 - Skills: ROS2, C++, OMPL, Python, Model Predictive Path Integral, April Tags
 - GitHub link: [Trajectory Planner](https://github.com/adityaaspat/Robotics/tree/main/OMPL_Trajector_planner)
+  
 
 # Video
 
-[Watch the video](assets/videos/20240418_053609000_iOS.mp4)
+[Watch the complete project video](assets/videos/20240418_053609000_iOS.mp4)
+[Watch the video for April Tag detection](assets/videos/20240412_194553710_iOS.mp4)
