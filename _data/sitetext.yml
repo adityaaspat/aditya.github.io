@@ -30,7 +30,7 @@ en: &DEFAULT_EN
         icon: "fas fa-project-diagram"
 
   portfolio:
-    title: "Portfolio"
+    title: "Projects"
     text: "Here are some of the projects I have worked on."
     section: portfolio
     closebutton: "Close Project"
