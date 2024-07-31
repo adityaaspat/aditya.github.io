@@ -60,8 +60,7 @@ en: &DEFAULT_EN
 
   about:
     title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    body: "I’m Aditya Aspat, a robotics engineer with a Master’s in Robotics. I focus on solving complex problems through innovative approaches, driven by a passion for advancing robotics technology. With a keen interest in path planning, perception, and state estimation, I strive to turn challenges into opportunities for growth and discovery."
     section: about
 
   clients:
@@ -83,13 +82,10 @@ en: &DEFAULT_EN
         logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    title: "My Socials"
     section: team
     people:
-      - name: "Larry Parker"
-        role: "Lead Marketer"
+      - name: "Aditya Aspat"
         image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
