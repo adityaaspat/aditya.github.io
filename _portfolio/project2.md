@@ -1,7 +1,7 @@
 ---
 title: Autonomous Parking using Deep RL
 subtitle: Developed autonomous parking solutions using advanced deep reinforcement learning (RL) techniques
-image: assets/img/portfolio/02-full.jpg
+image: assets/videos/DDPG.gif
 alt: Keep Exploring
 
 caption:
