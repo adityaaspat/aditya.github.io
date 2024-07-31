@@ -268,16 +268,12 @@ es: &DEFAULT_ES
   footer:
     legal: "Política de Privacidad"
     social:
-      - url: https://twitter.com
-        icon: "fab fa-twitter"
+      - url: https://github.com/adityaaspat/Robotics
+            icon: fab fa-github
       - url: https://facebook.com
-        icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
-        icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
-        icon: "fab fa-github"
-      - url: https://instagram.com
-        icon: "fab fa-instagram"
+            icon: fab fa-facebook-f
+      - url: http://www.linkedin.com/in/aditya-aspat26
+            icon: fab fa-linkedin-in
 es-ES:
   <<: *DEFAULT_ES
 es-CO:
@@ -423,15 +419,11 @@ de: &DEFAULT_DE
   footer:
     legal: "Datenschutzerklärung"
     social:
-      - url: https://twitter.com
-        icon: "fab fa-twitter"
+      - url: https://github.com/adityaaspat/Robotics
+            icon: fab fa-github
       - url: https://facebook.com
-        icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
-        icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
-        icon: "fab fa-github"
-      - url: https://instagram.com
-        icon: "fab fa-instagram"
+            icon: fab fa-facebook-f
+      - url: http://www.linkedin.com/in/aditya-aspat26
+            icon: fab fa-linkedin-in
 de-DE:
   <<: *DEFAULT_DE
