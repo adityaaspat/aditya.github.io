@@ -23,6 +23,6 @@ appropriate discrete actions effectively.
 
 # Video
 
-[Watch the video for DDPG Learning](assets/videos/DDPG_learning (2).mp4)
-[Watch the video for SAC Learning](assets/videos/SAC_Learning (1).mp4)
-[Watch the video for PPO Learning](assets/videos/PPO_learning (1) (1).mp4)
+- [Watch the video for DDPG Learning](assets/videos/DDPG_learning (2).mp4)
+- [Watch the video for SAC Learning](assets/videos/SAC_Learning (1).mp4)
+- [Watch the video for PPO Learning](assets/videos/PPO_learning (1) (1).mp4)
