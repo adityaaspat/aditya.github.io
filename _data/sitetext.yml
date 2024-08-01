@@ -86,7 +86,7 @@ en: &DEFAULT_EN
     section: team
     people:
       - name: "Aditya Aspat"
-        image: assets/images/WhatsApp Image 2024-07-30 at 2.45.47 PM.jpeg
+        image: assets/images/self.jpeg
         social:
           - url: https://github.com/adityaaspat/Robotics
             icon: fab fa-github
