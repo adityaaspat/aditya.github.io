@@ -50,12 +50,12 @@ en: &DEFAULT_EN
       - title: "Intern at Tata Power"
         year: "May 2022 - July 2022"
         desc: "Conducted extensive on-site data collection and research, resulting in strategic decision-making."
-        #image: "assets/images/tata.png"
+        image: "assets/images/tata.png"
         alt:
       - title: "Vellore Institute of Technology University"
         year: "2019-2023"
         desc: "Bachelor of Technology in Electrical and Electronics Engineering."
-        #image: "assets/images/vit.png"
+        image: "assets/images/vit.png"
         alt:
 
   about:
