@@ -94,21 +94,7 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: http://www.linkedin.com/in/aditya-aspat26
             icon: fab fa-linkedin-in
-            
-  contact:
-    title: "Contact Me"
-    section: contact
-    name: "Name*"
-    name-validation: "Please enter your name."
-    email: "Email*"
-    email-validation: "Please enter your email address."
-    phone: "Phone Number"
-    phone-validation: "Please enter your phone number."
-    message: "Message*"
-    message-validation: "Please enter a message."
-    subject: "Contact Form Submission"
-    submit: "Send Message"
-    
+
   footer:
     legal: "Privacy Policy"
     social:
