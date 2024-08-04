@@ -1,11 +1,11 @@
 ---
 title:  Autonomous Exploration
-subtitle: Autonomous exploration using RRT algorithm in ROS2 Humble
+subtitle: Autonomous exploration using RRT* algorithm in ROS2 Humble
 image: assets/videos/rrt_exploration.gif
 alt: Turtlebot3
 
 caption:
-  title: Autonomous Exploration
+  title: Autonomous Exploration using RRT*
   subtitle: Path planning and Exploration
   thumbnail: assets/videos/rrt_exploration.gif
 ---
