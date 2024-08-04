@@ -1,6 +1,6 @@
 ---
 title: Autonomous Search and Rescue
-subtitle: A mobile robotics project that used a Raspberry Pi camera and TurtleBot 3 on ROS2 to conduct autonomous search and rescue missions
+subtitle: A mobile robotics project that used a Raspberry Pi camera and TurtleBot 3 on ROS Noetic to conduct autonomous search and rescue missions
 image: assets/videos/TB.gif
 alt: Turtlebot3
 
