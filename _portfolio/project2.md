@@ -6,7 +6,7 @@ alt: Turtlebot3
 
 caption:
   title: Autonomous Search and Rescue
-  subtitle: Path planning and Exploration
+  subtitle: April Tags, Path planning, Exploration
   thumbnail: assets/videos/TB.gif
 ---
 Developed an MPPI (Model Predictive Path Integral)/MPC(Model Predictive Control) algorithm leveraging
