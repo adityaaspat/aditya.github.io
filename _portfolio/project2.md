@@ -16,8 +16,8 @@ environment and returning them to safety.
 {:.list-inline}
 - Date: April 2024
 - Course: Mobile Robotics
-- Skills: ROS2, C++, OMPL, Python, Model Predictive Path Integral, April Tags
-- GitHub link: [Trajectory Planner](https://github.com/adityaaspat/Robotics/tree/main/OMPL_Trajector_planner)
+- Skills: ROS, Python, Model Predictive Path Integral, April Tags, Camera
+- GitHub link: [Trajectory Planner](https://github.com/adityaaspat/Robotics/tree/main/ROS_turtlebot3_exploration/turtlebot3_exploration)
   
 
 # Video
