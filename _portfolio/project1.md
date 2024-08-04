@@ -1,6 +1,6 @@
 ---
 title:  Autonomous Exploration
-subtitle: Autonomous exploration using RRT* algorithm in ROS2 Humble
+subtitle: Autonomous exploration using RRT* algorithm on ROS2 Humble
 image: assets/videos/rrt_exploration.gif
 alt: Turtlebot3
 
@@ -17,4 +17,3 @@ Developed a TurtleBot3 navigation system using ROS 2 Humble and C++, implementin
 - Skills: ROS2, C++, OMPL, Model Predictive Path Integral
 - GitHub link: [RRT_Exploration](https://github.com/adityaaspat/Robotics/tree/main/RRT_exploration/trajectory_planner)
   
-
