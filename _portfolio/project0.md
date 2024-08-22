@@ -10,6 +10,7 @@ caption:
   thumbnail: assets/videos/kalman_filter.gif
 ---
 Developed and implemented a Kalman filter for sensor fusion on a TurtleBot3 simulation, combining data from IMU and wheel encoders to accurately estimate the robot's position.
+
 {:.list-inline}
 - Date: August 2024
 - Course: Self
