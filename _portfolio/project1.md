@@ -15,5 +15,5 @@ Developed a TurtleBot3 navigation system using ROS 2 Humble and C++, implementin
 - Date: June 2024
 - Course: Self
 - Skills: ROS2, C++, OMPL, Model Predictive Path Integral
-- GitHub link: [RRT_Exploration](https://github.com/adityaaspat/Robotics/tree/main/RRT_exploration/trajectory_planner)
+- GitHub link: [RRT_Exploration](https://github.com/adityaaspat/Robotics/tree/main/RRT_exploration)
   
