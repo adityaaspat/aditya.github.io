@@ -60,7 +60,7 @@ en: &DEFAULT_EN
 
   about:
     title: "About Me"
-    body: "I’m Aditya Aspat, a robotics engineer with a Master’s in Robotics. I focus on solving complex problems through innovative approaches, driven by a passion for advancing robotics technology. With a keen interest in path planning, perception, and state estimation, I strive to turn challenges into opportunities for growth and discovery."
+    body: "Aditya Aspat is a roboticist based in Boston, specializing in robotics, control systems, and artificial intelligence. His extensive expertise in autonomous systems, SLAM, computer vision, and reinforcement learning empowers him to develop groundbreaking robotic algorithms and real-world applications. With hands-on experience in research and development, Aditya is dedicated to pushing the boundaries of technology and creating innovative solutions that enhance our daily lives."
     section: about
 
   clients:
