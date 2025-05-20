@@ -23,7 +23,7 @@ en: &DEFAULT_EN
         desc: "Python, C, C++, Java, ROS, MATLAB, Arduino IDE"
         icon: "fas fa-code"
       - title: "Software"
-        desc: "NodeRED, Gazebo, AutoCAD, SOLIDWORKS, Isaac Sim, Isaac Gym"
+        desc: "Gazebo, AutoCAD, SOLIDWORKS, Isaac Sim, Isaac Gym"
         icon: "fas fa-laptop"
       - title: "Libraries"
         desc: "PyTorch, OpenCV, NumPY, Keras, sci-kit-learn, TensorFlow"
@@ -42,6 +42,11 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
+      - title: "VulcanForms"
+        year: "Jan 2025-Aug 2025"
+        desc: "Computer Vision Intern"
+        image: "assets/images/neu.png"
+        alt:
       - title: "Northeastern University"
         year: "2023-2025"
         desc: "Master of Science in Robotics, Concentration in Electrical and Computer Engineering."
