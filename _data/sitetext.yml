@@ -45,7 +45,7 @@ en: &DEFAULT_EN
       - title: "VulcanForms"
         year: "Jan 2025-Aug 2025"
         desc: "Computer Vision Intern"
-        image: "assets/images/neu.png"
+        image: "assets/img/VF_logo.png"
         alt:
       - title: "Northeastern University"
         year: "2023-2025"
