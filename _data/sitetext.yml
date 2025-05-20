@@ -42,9 +42,9 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: "VulcanForms"
+      - title: "Computer Vision Intern at VulcanForms"
         year: "Jan 2025-Aug 2025"
-        desc: "Computer Vision Intern"
+        desc: "Developed deep learning and Vision Transformer models for real-time anomaly detection in metal additive manufacturing printers"
         image: "assets/images/vulcanforms.jpeg"
         alt:
       - title: "Northeastern University"
